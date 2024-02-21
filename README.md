@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sekhar Sunkara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="">
+<img align="centre" alt="Coding" width="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" alt="">
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sekharsunkara6&label=Profile%20views&color=0e75b6&style=flat"
