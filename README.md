@@ -109,4 +109,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="mailto:sekharsunkara2002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yashitanamdeo's Holopin board](https://holopin.me/yashitanamdeo)](https://holopin.io/@yashitanamdeo)
+
