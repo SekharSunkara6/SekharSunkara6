@@ -20,7 +20,7 @@
 const sekhar = {
   role: "Full Stack Engineer",
   location: "Visakhapatnam, India 🇮🇳",
-  experience: "2+ years across multiple high-growth organizations",
+  experience: "2 years of hands-on across multiple high-growth organizations",
   stack: {
     backend:   ["Java", "Spring Boot", "Python", "FastAPI", "Node.js"],
     frontend:  ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
@@ -89,9 +89,8 @@ const sekhar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="180px"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180px"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SekharSunkara6&theme=tokyonight&hide_border=true" height="180px"/>
@@ -109,17 +108,17 @@ const sekhar = {
 <div align="center">
 
 <a href="https://github.com/SekharSunkara6/Superclaims-Backend-Assignment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Superclaims-Backend-Assignment&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SekharSunkara6&repo=Superclaims-Backend-Assignment&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/SekharSunkara6/Playto-Payout">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Playto-Payout&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SekharSunkara6&repo=Playto-Payout&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/SekharSunkara6/AEO-Diagnostic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=AEO-Diagnostic&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SekharSunkara6&repo=AEO-Diagnostic&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/SekharSunkara6/Wallet-Service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Wallet-Service&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SekharSunkara6&repo=Wallet-Service&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
