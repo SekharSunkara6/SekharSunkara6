@@ -89,8 +89,8 @@ const sekhar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="180px"/>
 
 <br/>
 
@@ -108,11 +108,19 @@ const sekhar = {
 
 <div align="center">
 
-[![SuperClaims](https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Superclaims-Backend-Assignment&theme=tokyonight&hide_border=true)](https://github.com/SekharSunkara6/Superclaims-Backend-Assignment)
-[![Playto Payout](https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Playto-Payout&theme=tokyonight&hide_border=true)](https://github.com/SekharSunkara6/Playto-Payout)
+<a href="https://github.com/SekharSunkara6/Superclaims-Backend-Assignment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Superclaims-Backend-Assignment&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/SekharSunkara6/Playto-Payout">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Playto-Payout&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
-[![AEO Diagnostic](https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=AEO-Diagnostic&theme=tokyonight&hide_border=true)](https://github.com/SekharSunkara6/AEO-Diagnostic)
-[![Wallet Service](https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Wallet-Service&theme=tokyonight&hide_border=true)](https://github.com/SekharSunkara6/Wallet-Service)
+<a href="https://github.com/SekharSunkara6/AEO-Diagnostic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=AEO-Diagnostic&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/SekharSunkara6/Wallet-Service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SekharSunkara6&repo=Wallet-Service&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</a>
 
 </div>
 
