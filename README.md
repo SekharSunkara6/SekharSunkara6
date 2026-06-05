@@ -121,7 +121,7 @@ const sekhar = {
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SekharSunkara6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://trophy.husam.dev/?username=SekharSunkara6&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
 ---
