@@ -121,7 +121,7 @@ const sekhar = {
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SekharSunkara6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B"/>
+<img src="https://github-trophies.vercel.app/?username=SekharSunkara6&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
 ---
@@ -132,7 +132,7 @@ const sekhar = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sekhar-sunkara-1b869b1a8)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SekharSunkara6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sekharsunkaraportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sekharsunkara6.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sekharsunkara2002@gmail.com)
 
 <br/>
