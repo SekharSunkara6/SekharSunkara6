@@ -86,19 +86,13 @@ const sekhar = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SekharSunkara6&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekharSunkara6&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180px"/>
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SekharSunkara6&theme=tokyonight&hide_border=true" height="180px"/>
-
+<img src="https://streak-stats.demolab.com/?user=SekharSunkara6&theme=tokyonight&hide_border=true" height="180px"/>
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SekharSunkara6&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 ---
@@ -126,11 +120,8 @@ const sekhar = {
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=SekharSunkara6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
 </div>
 
 ---
